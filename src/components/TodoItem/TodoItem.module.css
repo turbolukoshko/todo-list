@@ -1,0 +1,13 @@
+.done {
+  background: green;
+}
+
+.in-progress {
+  background: yellow;
+  color: black;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+}

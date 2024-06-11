@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "active": false
+  },
+  {
+    "id": 2,
+    "title": "Finish project report",
+    "active": false
+  },
+  {
+    "id": 3,
+    "title": "Exercise for 30 minutes",
+    "active": false
+  },
+  {
+    "id": 4,
+    "title": "Vacuum the living room",
+    "active": false
+  },
+  {
+    "id": 5,
+    "title": "Post office - Mail package",
+    "active": false
+  }
+]
