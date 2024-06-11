@@ -30,8 +30,8 @@ Todo List with React JS.
 
 4. Run project:
 
-```bash
-npm run dev
-```
+  ```bash
+  npm run dev
+  ```
 
 > default port is http://localhost:5173
